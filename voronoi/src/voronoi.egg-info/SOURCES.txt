@@ -1,0 +1,8 @@
+setup.py
+src/voronoi/__init__.py
+src/voronoi/__main__.py
+src/voronoi.egg-info/PKG-INFO
+src/voronoi.egg-info/SOURCES.txt
+src/voronoi.egg-info/dependency_links.txt
+src/voronoi.egg-info/requires.txt
+src/voronoi.egg-info/top_level.txt
